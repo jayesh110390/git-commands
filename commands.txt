@@ -1,0 +1,9 @@
+To check the version of git.
+git version
+
+To check global username and email. The values are stored in .gitconfig file
+git config --global --list
+
+To add global username and email 
+git config --global user.name "Jayesh Mishra"
+git config --global user.email "jayeshmishra11@gmail.com"
