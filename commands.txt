@@ -8,7 +8,8 @@ To add global username and email
 git config --global user.name "Jayesh Mishra"
 git config --global user.email "jayeshmishra11@gmail.com"
 
-To clone remote repo in local. Note it will create new folder based on Remote Repo Name 
+To clone remote repo in local. Note it will create new folder based on Remote Repo Name.
+Also a reference to remote repo is created by name "origin"
 git clone https://github.com/jayesh110390/git-commands.git
 
 To check the status
